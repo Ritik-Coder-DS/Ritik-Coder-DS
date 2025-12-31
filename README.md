@@ -1,9 +1,10 @@
-## Hi there 👋
+## Hi, I’m Ritik 👋
 
-<!--
-**Ritik-Coder-DS/Ritik-Coder-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a data science enthusiast with a strong foundation in Python, SQL, and data analysis. I enjoy working with data, building logical solutions, and turning raw information into clear insights.
 
-Here are some ideas to get you started:
+I have hands-on experience with databases, Excel, and visualization tools like Power BI. Right now, I’m focused on improving my problem-solving skills, writing clean Python code, and working on practical projects related to data science and analytics.
+
+I’m always curious to learn new technologies, improve my fundamentals, and build projects that solve real-world problems.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
